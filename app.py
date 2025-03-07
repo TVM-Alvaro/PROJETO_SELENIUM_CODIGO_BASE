@@ -38,5 +38,5 @@ def iniciar_driver():
     return driver
 
 driver = iniciar_driver()
-driver.get('https://www.devaprender.com')
+driver.get('https://cursoautomacao.netlify.app/desafios')
 input('')
